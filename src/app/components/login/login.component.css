@@ -1,0 +1,9 @@
+.login {
+  display: flex;
+  flex-direction: column;
+}
+
+.login__input {
+  display: flex;
+  flex-direction: column;
+}
